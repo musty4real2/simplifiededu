@@ -1,0 +1,11 @@
+#slider .slider-navigation ul li a {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slider-navigation-normal.png', sizingMethod='image');
+}
+#slider .slider-navigation ul li a.active, #slider .slider-navigation ul li a:hover {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slider-navigation-active.png', sizingMethod='image');
+}
+#main .rss {
+	right:14px;
+}

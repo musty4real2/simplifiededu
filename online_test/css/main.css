@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+#main_body{
+	width:800px;
+	height: auto;
+	margin:auto;
+	border:2px solid black;
+}
+#area{
+	background-color:#F60;
+	height:452px;
+	width:800px;
+	text-align:inherit;
+	
+	
+}
+
+#area2{
+	background-color: #3CC;
+	height: auto;
+	width:800px;
+	text-align:inherit;
+	
+	
+}
